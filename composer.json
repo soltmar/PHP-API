@@ -13,9 +13,9 @@
     "php" : ">=7.3",
     "securetrading/exception" : "^1.0.1",
     "securetrading/ioc" : "dev-flex",
-    "securetrading/data" : "^2.0",
+    "securetrading/data" : "dev-master",
     "securetrading/log" : "dev-master",
-    "securetrading/http" : "^2.0"
+    "securetrading/http" : "dev-master"
 
   },
   "require-dev" : {
