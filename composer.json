@@ -14,7 +14,7 @@
     "securetrading/exception" : "^1.0.1",
     "securetrading/ioc" : "dev-flex",
     "securetrading/data" : "^2.0",
-    "securetrading/log" : "^2.0",
+    "securetrading/log" : "dev-master",
     "securetrading/http" : "^2.0"
 
   },
