@@ -3,6 +3,12 @@
   "version" : "2.0.0",
   "description" : "Secure Trading's JSON API.",
   "license" : "MIT",
+  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/soltmar/PHP-IoC"
+        }
+    ],
   "require" : {
     "php" : ">=7.3",
     "securetrading/exception" : "^1.0.1",
